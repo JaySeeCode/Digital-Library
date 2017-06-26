@@ -2,6 +2,7 @@
 This is a simple web application used to maintain a digital inventory of books.
 It uses an Express RESTful API server and MongoDB for data storage.
 The front end built with (some framework, TBD).
+
 *Not included yet, but Passport.js will be used for Admin authentication.
 
 # Usage
