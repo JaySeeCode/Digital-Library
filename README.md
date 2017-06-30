@@ -6,4 +6,4 @@ The front end is rendered using Handlebars.
 *Not included yet, but Passport.js will be used for Admin authentication.
 
 # Usage
-As of now, this is a private project made solely for in-house, personal use.
+As of now, this is a personal project made solely for private in-house use.
